@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👷Atualmente estou trabalhando em uma transportadora
+- 📚Estou cursando uma graduação em Engenharia de Software na Unifil
+- 📧Entre em contato comigo: viniciusbolo03@gmail.com 📞(43) 996782490
+- ⚽Meu hobby é jogar futebol, assistir filmes e ver vídeos sobre curiosidades gerais
+   
+   
+
 <!--
 **bolozinjr/bolozinjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
